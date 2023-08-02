@@ -10,20 +10,60 @@
 }
 
 body {
-    font-family: open-sans, oswald;
+    font-family: 'Open-sans', oswald;
     font-weight: 300;
-    color: #3a3a3a; 
+    color: #3a3a3a;
 }
 
 /* headings and logo */
 
+
 h1, h2 {
-  font-family: 'Playfair-Display' open-sans;
+  font-family: 'Playfair Display' open-sans;
+  font-weight: bold;
   letter-spacing: 2px;
   color: #C0E0F7; 
+}
+
+
+#menu, #logo{
+  line-height: 100px;
 }
 
 #logo{
   float: left;
   font-size: 280%;
+  letter-spacing: 4px;
+  color: #C0E0F7; 
+  
 }
+
+.text-right{
+  float: right;
+}
+
+
+#menu li{
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 30px;
+  
+}
+
+
+#menu a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color:#C0E0F7;
+  width: 100px;
+  font-weight: bold;
+  padding: 25px 20px;
+  
+  
+}
+
+#menu a:hover{
+  color: whitesmoke;
+  
+}
+
