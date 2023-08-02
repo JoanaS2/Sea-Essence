@@ -1,3 +1,5 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display&display=swap');
+
 *,
 *::before,
 *::after {
@@ -7,6 +9,7 @@
 }
 
 body {
-    font-family: Arial;
+    font-family: open-sans, oswald;
+    font-weight: 300;
     /* background-image: url("../images/sunset.jpg"); */
 }
