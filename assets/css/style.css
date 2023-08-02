@@ -20,10 +20,11 @@ body {
 header {
   background-color: #304557;
   width: 100%;
-  padding: 0.5%;
+  padding: 0;
   top: 0;
   left: 0;
   float: left;
+  position: fixed;
 }
 
 
@@ -72,3 +73,13 @@ h1, h2 {
   
 }
 
+
+/* hero image */
+
+#hero-image{
+  height: 100vh;
+  background: url(/assets/images/maldives.jpg) no-repeat center;
+  background-size: cover;
+  background-position: center;
+  
+}
