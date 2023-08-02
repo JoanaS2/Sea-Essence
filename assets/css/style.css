@@ -12,5 +12,18 @@
 body {
     font-family: open-sans, oswald;
     font-weight: 300;
-    /* background-image: url("../images/sunset.jpg"); */
+    color: #3a3a3a; 
+}
+
+/* headings and logo */
+
+h1, h2 {
+  font-family: 'Playfair-Display' open-sans;
+  letter-spacing: 2px;
+  color: #C0E0F7; 
+}
+
+#logo{
+  float: left;
+  font-size: 280%;
 }
