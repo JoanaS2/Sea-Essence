@@ -28,32 +28,32 @@ header {
 }
 
 
-h1, h2 {
+h1 {
   font-family: 'Playfair Display' open-sans;
   font-weight: bold;
   letter-spacing: 2px;
-  color: #C0E0F7; 
+  color: #FFCC57;
 }
 
 
-#menu, #logo{
-  line-height: 100px;
-}
+
 
 #logo{
   float: left;
-  margin-left: 15px;
+  margin-left: 18px;
   font-size: 280%;
   letter-spacing: 4px;
-  color: #C0E0F7; 
+  line-height: 100px;
+  font-weight: lighter;
 }
 
-.text-right{
+#text-right{
   float: right;
+  line-height: 100px;
 }
 
 
-#menu li{
+#text-right li{
   display: inline-block;
   list-style-type: none;
   margin-right: 30px;
@@ -61,25 +61,23 @@ h1, h2 {
 }
 
 
-#menu a{
+#text-right a{
   text-decoration: none;
   text-transform: uppercase;
-  color:#C0E0F7;
+  color:#FFCC57;
   width: 100px;
   font-weight: bold;
 }
 
-#menu a:hover{
-  color: whitesmoke;
-  
+#text-right a:hover{
+  color: #c0e0f7;
 }
-
 
 /* hero image */
 
 #hero-image{
   height: 100vh;
-  background: url(/assets/images/sunset.jpg) no-repeat center;
+  background: url(/assets/images/hero-image.jpg) no-repeat center;
   background-size: cover;
   background-position: center;
   
