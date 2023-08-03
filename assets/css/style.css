@@ -13,6 +13,10 @@ body {
     font-family: 'Open-sans', oswald;
     font-weight: 300;
     color: #3a3a3a;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #C4B0A9;
 }
 
 /* headings and logo */
@@ -103,7 +107,7 @@ h1, h2{
   
 }
 
-#about-content{
+#about{
 max-width: 800px;
 margin: 0 auto;
 text-align: center;
@@ -118,11 +122,32 @@ padding-top: 15px;
   color: red;
 }
 
-.maldive{
+.container{
+  margin: 150px auto;
+  width: 75%;
+  
+}
+
+.pos_left{
 
   width: 40%;
   clear: both;
   border-radius: 10px;
-  margin-left: 40px;
+  float: left;
+  border: 3px solid white;
 
 }
+
+
+
+
+
+/* .mauritius{
+
+  width: 40%;
+  clear: both;
+  border-radius: 10px;
+  margin-left: 80px;
+  margin-bottom: 10px;
+
+} */
