@@ -97,14 +97,18 @@ h1, h2{
   height: 100px;
 
   padding-bottom: 50px;
-  padding-top: 500px;
+  padding-top: 530px;
   margin-left: auto;
   margin-right: auto;
   
 }
 
-.about-content{
+#about-content{
 max-width: 800px;
 margin: 0 auto;
 text-align: center;
+font-size: 20px;
+padding-top: 15px;
 }
+
+
