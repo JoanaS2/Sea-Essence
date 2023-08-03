@@ -111,4 +111,18 @@ font-size: 20px;
 padding-top: 15px;
 }
 
+#discover{
+  text-align: center;
+  padding-top: 30px;
+  margin: 15px;
+  color: red;
+}
 
+.maldive{
+
+  width: 40%;
+  clear: both;
+  border-radius: 10px;
+  margin-left: 40px;
+
+}
