@@ -25,16 +25,17 @@ body {
 header {
   background-color: #304557;
   width: 100%;
-  padding: 0;
+  
   top: 0;
   left: 0;
   float: left;
   position: fixed;
+  
 }
 
 
 h1, h2{
-  font-family: 'Playfair Display' open-sans;
+  font-family: 'Playfair-Display' open-sans;
   font-weight: bold;
   letter-spacing: 2px;
   color: #242834;
@@ -73,7 +74,7 @@ h1, h2{
   text-transform: uppercase;
   color:#FFCC57;
   width: 100px;
-  font-weight: bold;
+  font-weight: bold; 
 }
 
 #text-right a:hover{
@@ -85,7 +86,7 @@ h1, h2{
 
 #hero-image{
   height: 100vh;
-  background: url(/assets/images/hero-image.jpg) no-repeat center;
+  background: url(../images/hero-image.jpg) no-repeat center;
   background-size: cover;
   background-position: center;
   justify-content: center;
@@ -94,13 +95,10 @@ h1, h2{
 
 #cover-text{
   font-size: 150%;
-  font-family:'Playfair Display' open-sans;
+  font-family:'Playfair-Display' open-sans;
   letter-spacing: 2px;
   text-align: center;
-
-  width: 500x;
   height: 100px;
-
   padding-bottom: 50px;
   padding-top: 530px;
   margin-left: auto;
@@ -120,7 +118,7 @@ padding-top: 15px;
   text-align: center;
   padding-top: 30px;
   margin: 15px;
-  color: red;
+  color: #c0e0f7;
 }
 
 
@@ -197,3 +195,5 @@ padding-top: 15px;
   margin-left: auto;
   margin-right: auto;
  }
+
+  
