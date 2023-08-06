@@ -13,7 +13,8 @@ body {
     font-family: 'Open-sans', oswald;
     font-weight: 300;
     color: #3a3a3a;
-    /* display: flex; */
+    flex-direction: column;
+    display: flex;
     justify-content: center;
     min-height: 100vh;
     background-color: #C4B0A9;
@@ -230,5 +231,6 @@ padding-top: 15px;
     color: #c0e0f7;
   }
 
-
-  
+.contact-form{
+  text-align: center;
+}
