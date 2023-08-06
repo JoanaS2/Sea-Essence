@@ -207,7 +207,7 @@ color: red;
   margin-right: auto;
  }
 
-.destinations {
+.discover {
   max-width: 800px;
 margin: 0 auto;
 text-align: center;
@@ -216,7 +216,6 @@ padding-top: 30px;
 padding-bottom: 30px;
 color: blueviolet;
 }
- /* Footer */
 
  footer{
   margin-top: 2%;
