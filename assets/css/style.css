@@ -200,7 +200,8 @@ padding-top: 15px;
  }
 
  footer{
-  background-color:  #304557;
+  background-color: #304557;
+  overflow: hidden;
 
 }
  .social_networks{
