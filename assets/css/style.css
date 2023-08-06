@@ -227,15 +227,14 @@ left:10%;
 padding:50px;
 margin: 0 auto;
 text-align: center;
-
-
 }
 
 .contact_form > p{
   padding: 20px;
 }
 .form-section{
-  margin: 100px
+  margin: 100px;
+
 }
 form > h2{
   color: white;
@@ -253,6 +252,9 @@ label{
   font-size: 20px;
 }
 
+#message{
+  margin-top: 20px;
+}
 .submit_button{
   margin-top: 20px ;
 }
