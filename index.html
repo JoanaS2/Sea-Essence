@@ -18,7 +18,7 @@
       <h1> Sea Essence</h1>
     </a>
 
-    <nav id="text-right">
+    <nav class="nav_menu">
       <ul>
         <li>
           <a href="#about" aria-label="go to about the Indian ocean">About</a>
@@ -132,7 +132,7 @@
       </div>
     </section>
 
-    <section class="section" id="contact">
+    <section class="form-section" id="contact">
       <div>
         <form action="response.html" method="GET">
           <h2>
@@ -141,17 +141,25 @@
           <p>
             Please complete the form below and one of our Travel experts will contact you shortly.
           </p>
+    
           <label for="first_name">First Name</label>
-          <input type="text" id="first_name" name="fname" placeholder="First Name">
-
+          <input type="text" id="first_name" name="first_name" placeholder="First Name" class="text-input" required>
+      
           <label for="last_name">Last Name</label>
-          <input type="text" id="last_name" name="lname" placeholder="Last Name">
+          <input type="text" id="last_name" name="last_name" placeholder="Last Name" class="text-input" required>
+        
 
+        
           <label for="email">Email Address</label>
-          <input type="text" id="email" name="email_address" placeholder="Email Address">
+          <input type="text" id="email" name="email_address" placeholder="Email Address" class="text-input" required>
+
+          <label for="telephone">Telephone Number</label>
+          <input type="number" id="telephone" name="telephone_number" placeholder="Telephone Number">
+        
 
          <!--Submit Button-->
-          <button type="submit">Submit</button>
+          <button type="submit" class="contact_button">Submit</button>
+          <!-- <input class="contact_button" value="Enquire Now" type="submit"> -->
 
         </form>
       </div>

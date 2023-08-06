@@ -59,13 +59,13 @@ h1{
   color: #FFCC57;
 }
 
-#text-right{
+.nav_menu{
   float: right;
   line-height: 100px;
 }
 
 
-#text-right li{
+.nav_menu li{
   display: inline-block;
   list-style-type: none;
   margin-right: 30px;
@@ -73,7 +73,7 @@ h1{
 }
 
 
-#text-right a{
+.nav_menu a{
   text-decoration: none;
   text-transform: uppercase;
   color:#FFCC57;
@@ -81,7 +81,7 @@ h1{
   font-weight: bold; 
 }
 
-#text-right a:hover{
+.nav_menu a:hover{
   color: #c0e0f7;
 }
 
