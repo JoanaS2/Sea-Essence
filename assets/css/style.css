@@ -101,11 +101,14 @@ h1, h2{
   font-family:'Playfair-Display' open-sans;
   letter-spacing: 2px;
   text-align: center;
-  height: 100px;
   padding-bottom: 50px;
-  padding-top: 530px;
+  background-color: gray;
   margin-left: auto;
   margin-right: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   
 }
 
@@ -199,11 +202,14 @@ padding-top: 15px;
   margin-right: auto;
  }
 
+ /* Footer */
+
  footer{
+  margin-top: 2%;
   background-color: #304557;
   overflow: hidden;
+ }
 
-}
  .social_networks{
     display: flex;
     justify-content: center;
@@ -213,11 +219,14 @@ padding-top: 15px;
   }
  
   .social_networks i{
-    color: black;
+    color: #FFCC57;
     padding: 3rem 1rem;
-
+    font-size: 2rem;
   }
 
+  .social_networks i:hover{
+    color: #c0e0f7;
+  }
 
 
   
