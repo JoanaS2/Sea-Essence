@@ -93,6 +93,8 @@ h1, h2{
   background-size: cover;
   background-position: center;
   justify-content: center;
+  position: relative;
+  width: 100%;
   
 }
 
@@ -101,7 +103,7 @@ h1, h2{
   font-family:'Playfair-Display' open-sans;
   letter-spacing: 2px;
   text-align: center;
-  padding-bottom: 50px;
+  /* padding-bottom: 50px; */
   background-color: gray;
   margin-left: auto;
   margin-right: auto;
