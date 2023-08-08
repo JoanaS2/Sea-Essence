@@ -303,6 +303,11 @@
    align-items: center;
  }
 
+ .thankyou_content p {
+   border: 2px solid #304557;
+   padding: 20px;
+ }
+
  /* -- << Media queries  >> -- */
  @media all and (max-width: 461px) {}
 
