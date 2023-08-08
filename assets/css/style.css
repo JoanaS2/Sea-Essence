@@ -26,7 +26,7 @@
    display: flex;
    flex-direction: column;
    flex: 1 0 auto;
-   align-items: center;
+   /* align-items: center; */
    justify-content: center;
    min-height: 100vh;
    font-size: 1rem;
@@ -169,7 +169,7 @@
  }
 
  table {
-   /* display: none; */
+
    width: 400px;
  }
 
@@ -296,10 +296,12 @@ display: block;
 
  /* -- << Media queries  >> -- */
 
- /* Media for tablets and small screen sizes 800px and down */
+ @media all and (max-width: 461px) {}
 
- @media screen and (min-width: 50rem) {}
+ /* Media for tablets and small screen sizes 800px and down */
+ /* 
+ @media screen and (min-width: 50rem) {} */
 
  /* Media for desktop screens from 1200px wide and down */
-
- @media screen and (max-width: 95rem) {}
+ /* 
+ @media screen and (max-width: 95rem) {} */
