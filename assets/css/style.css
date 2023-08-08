@@ -23,7 +23,7 @@ body {
 
 /* headings and logo */
 
-h1{
+.logo{
   float: left;
   margin-left: 18px;
   font-size: 300%;
@@ -33,7 +33,7 @@ h1{
   color: #FFCC57;
 }
 
- h2{
+ h2, h3{
   font-family: 'Playfair-Display' open-sans;
   font-weight: bold;
   letter-spacing: 2px;
