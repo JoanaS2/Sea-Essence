@@ -253,6 +253,22 @@ label{
   margin-top: 20px;
 }
 
+
+input[type=submit]{
+  margin-top: 20px;
+    margin-left: 0.75rem;
+    padding: 0.6rem;
+    background-color: #304557;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+
+/* .block-label{
+display: block;
+} */
+
 fieldset{
   margin-inline-start: 2px;
     margin-inline-end: 2px;
