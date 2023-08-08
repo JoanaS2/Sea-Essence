@@ -235,19 +235,20 @@
  }
 
 
- input[type=submit] {
+ .button {
    margin-top: 20px;
    margin-left: 0.75rem;
-   padding: 0.6rem;
+   padding: 0.7rem 1.3rem;
    background-color: #304557;
    color: white;
    border-radius: 5px;
    display: inline-block;
+   font-size: 1.2rem;
  }
 
- /* .block-label{
-display: block;
-} */
+ .button:hover {
+   background: #c0e0f7;
+ }
 
  fieldset {
    margin-inline-start: 2px;
@@ -265,9 +266,6 @@ display: block;
  }
 
 
- .submit_button {
-   margin-top: 20px;
- }
 
  footer {
    margin-top: 2%;
