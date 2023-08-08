@@ -299,8 +299,11 @@
    color: #c0e0f7;
  }
 
- /* -- << Media queries  >> -- */
+ .thankyou_content {
+   align-items: center;
+ }
 
+ /* -- << Media queries  >> -- */
  @media all and (max-width: 461px) {}
 
  /* Media for tablets and small screen sizes 800px and down */
