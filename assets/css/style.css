@@ -264,6 +264,7 @@
  .button:hover {
    background: #c0e0f7;
    color: #242834;
+   cursor: pointer;
  }
 
  fieldset {
