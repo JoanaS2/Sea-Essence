@@ -59,7 +59,7 @@
    width: 100%;
    top: 0;
    left: 0;
-   padding: 1em;
+   /* padding: 1em; */
    position: fixed;
    z-index: 100;
    display: flex;
@@ -69,18 +69,21 @@
 
  }
 
+ .nav_menu {
+   padding: 20px;
+ }
+
  .nav_container a {
    text-decoration: none;
  }
 
- .nav_menu {
-   line-height: 100px;
- }
+
 
  .nav_menu li {
    display: inline-block;
    list-style-type: none;
    margin-right: 30px;
+
 
  }
 
@@ -318,11 +321,16 @@
 
  .thankyou_content {
    align-items: center;
-   background-color: red;
+   background-image: url(../images/beach-image.jpg);
+   height: 100vh;
+   width: 100%;
+   background-size: cover;
+   justify-content: center;
+   position: relative;
  }
 
  .thankyou_content p {
-   border: 2px solid #304557;
+   border: 10px solid #304557;
    padding: 20px;
  }
 
