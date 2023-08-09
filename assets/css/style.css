@@ -334,9 +334,18 @@
    margin-bottom: 2%;
  }
 
+ .thankyou_content h2 {
+
+
+   margin-bottom: 2%;
+ }
+
  .thankyou_content p {
    border: 3px solid #304557;
    padding: 20px;
+   text-align: center;
+   font-size: 140%;
+   font-weight: 500;
  }
 
  /* #destinations {
