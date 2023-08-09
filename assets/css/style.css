@@ -74,7 +74,6 @@
  }
 
  .nav_menu {
-   float: right;
    line-height: 100px;
  }
 
@@ -194,9 +193,15 @@
    margin-right: auto;
  }
 
+ img.destination_image {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+ }
+
  .discover {
    max-width: 800px;
-   margin: 0 auto;
+   margin-top: 5em;
    text-align: center;
    font-size: 2rem;
    padding-top: 30px;
@@ -272,14 +277,11 @@
    resize: none;
  }
 
-
-
  footer {
    margin-top: 2%;
    background-color: #304557;
    overflow: hidden;
  }
-
 
  .social_networks {
    display: flex;
@@ -308,13 +310,18 @@
    padding: 20px;
  }
 
+ /* #destinations {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   max-width: 100%;
+   height: auto;
+ } */
+
  /* -- << Media queries  >> -- */
- @media all and (max-width: 461px) {}
 
- /* Media for tablets and small screen sizes 800px and down */
- /* 
- @media screen and (min-width: 50rem) {} */
-
- /* Media for desktop screens from 1200px wide and down */
- /* 
- @media screen and (max-width: 95rem) {} */
+ @media all and (max-width: 461px) {
+   table {
+     display: none;
+   }
+ }
