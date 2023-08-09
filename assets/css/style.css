@@ -329,8 +329,13 @@
    position: relative;
  }
 
+ .thankyou_content h1 {
+   font-size: 60px;
+   margin-bottom: 2%;
+ }
+
  .thankyou_content p {
-   border: 10px solid #304557;
+   border: 3px solid #304557;
    padding: 20px;
  }
 
