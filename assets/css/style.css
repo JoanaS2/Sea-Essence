@@ -135,7 +135,6 @@
    font-size: 20px;
    padding-top: 30px;
    padding-bottom: 30px;
-   color: red;
  }
 
  .container {
@@ -334,7 +333,7 @@
 
  /*For smaller screens*/
 
- @media screen and (max-width:700px) {
+ @media screen and (max-width:800px) {
    .container {
      display: flex;
      flex-direction: column;
@@ -344,6 +343,5 @@
 
    .right {
      text-align: center;
-     color: red;
    }
  }
