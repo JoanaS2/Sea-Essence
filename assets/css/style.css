@@ -293,7 +293,6 @@
  }
 
  footer {
-   margin-top: 2%;
    background-color: #304557;
    overflow: hidden;
  }
@@ -319,6 +318,7 @@
 
  .thankyou_content {
    align-items: center;
+   background-color: red;
  }
 
  .thankyou_content p {
