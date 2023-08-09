@@ -59,7 +59,7 @@
    width: 100%;
    top: 0;
    left: 0;
-   float: left;
+   padding: 1em;
    position: fixed;
    z-index: 100;
    display: flex;
@@ -140,7 +140,7 @@
 
  .container {
    width: 100%;
-   /* padding: 0 1em; */
+   padding: 0 1em;
    display: grid;
    grid-template-columns: repeat(2, 1fr);
 
@@ -167,14 +167,14 @@
    align-items: center;
  }
 
- .container .right .text {
-   padding-left: 40px;
- }
 
- .container .right .text p {
+
+ .container .right .text {
    font-size: 18px;
    line-height: 26px;
    padding-bottom: 15px;
+   padding-left: 10px;
+
  }
 
  table {
@@ -206,7 +206,7 @@
 
  .discover {
    max-width: 100%;
-   margin-top: 5em;
+   margin-top: 1rem;
    text-align: center;
    font-size: 2rem;
    padding-top: 30px;
@@ -338,5 +338,11 @@
      display: flex;
      flex-direction: column;
      justify-content: center;
+     text-align: center;
+   }
+
+   .right {
+     text-align: center;
+     color: red;
    }
  }
