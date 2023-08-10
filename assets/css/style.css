@@ -1,5 +1,6 @@
  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display&display=swap');
 
+
  *,
  *::before,
  *::after {
@@ -45,7 +46,7 @@
 
  h2,
  h3 {
-   font-family: 'Playfair-Display'open-sans;
+   font-family: 'Playfair Display'open-sans;
    font-weight: bold;
    letter-spacing: 2px;
    color: #242834;
@@ -213,7 +214,6 @@
    font-size: 2rem;
    padding-top: 30px;
    padding-bottom: 30px;
-   color: blueviolet;
  }
 
  .form-section {
