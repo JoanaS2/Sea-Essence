@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: 'Noto-Serif';
+  font-family: 'Noto-Serif'lato;
   font-weight: 300;
   color: #3a3a3a;
   flex-direction: column;
@@ -44,7 +44,7 @@ main {
 
 h2,
 h3 {
-  font-family: 'Noto Serif''Lato';
+  font-family: 'Lato';
   font-weight: bold;
   letter-spacing: 2px;
   color: #242834;
