@@ -1,5 +1,7 @@
+/*Google Fonts import URL */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@400&display=swap');
 
+/*Global Styles*/
 *,
 *::before,
 *::after {
@@ -32,7 +34,7 @@ main {
   width: 100%;
 }
 
-/* headings and logo */
+/* Headings and Logo styling */
 
 .logo {
   font-size: 300%;
@@ -51,7 +53,7 @@ h3 {
 
 }
 
-
+/* Nav Styling */
 
 .nav_container {
   background-color: #304557;
@@ -76,8 +78,6 @@ h3 {
   letter-spacing: 1px;
 }
 
-
-
 .nav_menu li {
   display: inline-block;
   list-style-type: none;
@@ -98,7 +98,7 @@ h3 {
   color: #c0e0f7;
 }
 
-/* hero image */
+/* Hero section and image styling */
 
 .hero-image {
   height: 100vh;
@@ -109,6 +109,8 @@ h3 {
   position: relative;
 
 }
+
+/* Style for hero text section*/
 
 .hero-text {
   font-size: 150%;
@@ -129,6 +131,8 @@ h3 {
   color: #FFCC57;
 }
 
+/*Style for About section*/
+
 .section {
   max-width: 800px;
   margin: 0 auto;
@@ -138,44 +142,7 @@ h3 {
   padding-bottom: 30px;
 }
 
-.container {
-  width: 100%;
-  padding: 0 1em;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-
-}
-
-
-.left_image {
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
-}
-
-.container .left_image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  padding: 5px;
-}
-
-.container .right {
-  display: flex;
-  align-items: center;
-}
-
-
-
-.container .right .text {
-  font-size: 18px;
-  line-height: 26px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-
-}
+/*Style for table content*/
 
 table {
   width: 400px;
@@ -198,6 +165,8 @@ td {
   margin-right: auto;
 }
 
+/*Destination section h2 styling*/
+
 .discover {
   max-width: 100%;
   margin-top: 1rem;
@@ -205,6 +174,44 @@ td {
   font-size: 2rem;
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+/*Container style for images and text content*/
+
+.container {
+  width: 100%;
+  padding: 0 1em;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+}
+
+.left_image {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.container .left_image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  padding: 5px;
+}
+
+.container .right {
+  display: flex;
+  align-items: center;
+}
+
+.container .right .text {
+  font-size: 18px;
+  line-height: 26px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+
 }
 
 .form-section {
@@ -305,8 +312,7 @@ footer {
   color: #c0e0f7;
 }
 
-
-.container {
+.thankyou_page {
   align-items: center;
   background-image: linear-gradient(to bottom, #000000c4 0%, #0000005c 70%, #0000001f 95%), url(../images/beach-image.jpg);
   height: 100vh;
@@ -320,17 +326,17 @@ footer {
 
 }
 
-.container h1 {
+.thankyou_page h1 {
   font-size: 60px;
   margin-bottom: 2%;
 }
 
-.container h2 {
+.thankyou_page h2 {
   margin-bottom: 2%;
   color: white;
 }
 
-.container p {
+.thankyou_page p {
   border: 3px solid #304557;
   padding: 20px;
   text-align: center;
@@ -366,7 +372,7 @@ footer {
   }
 }
 
-.container {
+.thankyou_page {
   display: flex;
   flex-direction: column;
   text-align: center;
