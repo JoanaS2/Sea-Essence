@@ -65,14 +65,14 @@ The website consists of three sections on a page, which are accessible from the 
 * Contains navigation links aligned to the center:
 * ABOUT - leads to the content explaining what the Sea Essence website is in addition to content about the Indian Ocean and the best time to travel according to the weather.
 * DESTINATIONS - this leads to the section where users can discover and find inspiration on different destinations in the Indian Ocean.
-* CONTACT - leads to the enquiry form which users can fill out if they have any questions or requests to ensure travel experts can plan their desired holiday.
+* CONTACT - leads to the inquiry form which users can fill out if they have any questions or requests to ensure travel experts can plan their desired holiday.
 
  The links all have an animated hover effect making it easy and clear for the website user to understand and a cursor pointer is shown when the mouse is hovered for a clickable section.
 
 ### Hero Section
 
 * The Hero section contains a bright background image that covers the page when the home page is loaded on the browser.
-* Contains a  hero text which is centered and positioned absolute. Meant to entice users to continue browsing. 
+* Contains a  hero text which is centered and positioned to absolute. Meant to entice users to continue browsing. 
 
 - - -
 
