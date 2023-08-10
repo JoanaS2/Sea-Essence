@@ -306,7 +306,7 @@ footer {
 }
 
 
-.thankyou_content {
+.container {
   align-items: center;
   background-image: linear-gradient(to bottom, #000000c4 0%, #0000005c 70%, #0000001f 95%), url(../images/beach-image.jpg);
   height: 100vh;
@@ -320,17 +320,17 @@ footer {
 
 }
 
-.thankyou_content h1 {
+.container h1 {
   font-size: 60px;
   margin-bottom: 2%;
 }
 
-.thankyou_content h2 {
+.container h2 {
   margin-bottom: 2%;
   color: white;
 }
 
-.thankyou_content p {
+.container p {
   border: 3px solid #304557;
   padding: 20px;
   text-align: center;
@@ -366,7 +366,7 @@ footer {
   }
 }
 
-.thankyou_content {
+.container {
   display: flex;
   flex-direction: column;
   text-align: center;
