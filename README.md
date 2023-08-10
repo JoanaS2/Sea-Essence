@@ -157,8 +157,38 @@ The website consists of three sections on a page, which are accessible from the 
 #### Tools
 
 - [Tiny PNG](https://tinypng.com) was used to compress images.
+- - -
 
- 
+## Deployment and Local deployment
+
+## Deployment
+
+The site was deployed using GitHub Pages. This was done as followed:
+
+- Log in to Git Hub
+- Find the repository for the project and navigate to the settings tab
+- Click on the pages link, on the left side of the navigation bar
+- Once in the source section, select the main branch from the drop-down selection and select root from the drop-down folder menu.
+-Lastly, click save and the live GitHub pages are now deployed.
+
+## Local Development
+## How to clone
+
+A local copy of this project can be found by cloning it.
+- Log in to Git Hub
+- Find the repository for the Sea Essence project and click on the green code button. Options are given whether you would like to clone with HTTPS, SSH or GitHub CLI. Copy this link.
+- In your IDE Terminal type 'git clone' and paste the link copied. Press enter.
+
+To clone my repository you can type the following command:
+
+git clone https://github.com/JoanaS2/Sea-Essence.git
+
+### How to Fork
+To fork this repository:
+- Log in to Git Hub
+- Find the repository for the Sea Essence project and click fork on the top right corner just below settings tab.
+
+ - - -
  ## Validator Testing
  ### W3C Validator 
 
@@ -171,9 +201,12 @@ W3C validator was also used to validate the CSS in the style.css file
 
 ![style.css CSS]()
 
+---
+
 ### Lighthouse
 
 I used Lighthouse in the Chrome Developer Tools which tests the performance, accessibility, best practices and SEO of the website.
+
 
 
 ## Future Improvements
