@@ -129,7 +129,7 @@
  }
 
  .hero-text>p {
-   color: greenyellow;
+   color: #FFCC57;
  }
 
  .section {
@@ -239,11 +239,6 @@
    margin: 0 auto;
 
  }
-
-
- /* .form-section {
-   margin: 100px;
- } */
 
  form>h2 {
    color: white;
