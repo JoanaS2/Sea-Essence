@@ -173,6 +173,16 @@ W3C validator was also used to validate the CSS in the style.css file
 
 ### Lighthouse
 
+I used Lighthouse in the Chrome Developer Tools which tests the performance, accessibility, best practices and SEO of the website.
+
+
+## Future Improvements
+* Optimize page load times and implement efficient and more navigation to enhance user satisfaction.
+* Expand on the destinations section and create a page by using javascript so users can find navigating destinations in more depth such as pricing and tour packages we offer.
+* add custom 404 page
+* I will improve the quality and quantity of commit messages in the future
+
+
 
 
 
