@@ -40,8 +40,7 @@ The color palette used is thought to stimulate and encourage relaxation.
 
 * Sunglow yellow was used as a relatively brighter color to captivate attention.
 
-The color palette was created using the [Coolors] (https://coolors.co/) website.
-
+The color palette was created using the [Coolors](https://coolors.co/) website.
 
 ### Typography
 
@@ -59,7 +58,6 @@ This was done using Balsamiq.
 The website consists of three sections on a page, which are accessible from the navigation menu which includes an about, destinations and a contact section. When the user submits a form in the contact section this redirects them to a thank you page.
 
 ![Home page](documentation/home_page.png)
-
 
 ### Navbar
 * A responsive navigation bar is positioned fixed at the top of the page which allows the users to easily navigate.
@@ -186,7 +184,7 @@ git clone https://github.com/JoanaS2/Sea-Essence.git
 ### How to Fork
 To fork this repository:
 - Log in to Git Hub
-- Find the repository for the Sea Essence project and click fork on the top right corner just below settings tab.
+- Find the repository for the Sea Essence project and click fork on the top right corner just below the settings tab.
 
  - - -
  ## Validator Testing
@@ -202,13 +200,10 @@ W3C validator was also used to validate the CSS in the style.css file
 ![style.css CSS]()
 
 ---
-
 ### Lighthouse
 ![Lighthouse Report](documentation/lighthouse_report.png)
 
 I used Lighthouse in the Chrome Developer Tools which tests the performance, accessibility, best practices and SEO of the website.
-
-
 
 ## Future Improvements
 * Optimize page load times and implement efficient and more navigation to enhance user satisfaction.
@@ -217,7 +212,9 @@ I used Lighthouse in the Chrome Developer Tools which tests the performance, acc
 * I will improve the quality and quantity of commit messages in the future
 
 
-
+### Acknowledgments
+- [Code Institute](https://codeinstitute.net/) for all tutor assistance and Slack members for support and help when needed.
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova), my Code Institue mentor.
 
 
 

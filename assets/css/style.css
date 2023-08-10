@@ -344,7 +344,7 @@ footer {
   font-weight: 500;
 }
 
-/* -- << Media queries  >> -- */
+/* Media queries all */
 
 @media all and (max-width: 461px) {
   table {
@@ -352,7 +352,7 @@ footer {
   }
 }
 
-/*For smaller screens*/
+/* Media queries  smaller screens */
 
 @media screen and (max-width:1070px) {
   .container {
