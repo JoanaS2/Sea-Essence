@@ -254,11 +254,12 @@
    padding: 3px;
    height: 25px;
    margin: 5px 0 20px 0;
+
  }
 
  label {
-   font-size: 20px;
-   margin-top: 20px;
+   font-size: 16px;
+   margin-top: 10px;
  }
 
 
@@ -321,12 +322,16 @@
 
  .thankyou_content {
    align-items: center;
-   background-image: url(../images/beach-image.jpg);
+   background-image: linear-gradient(to bottom, #000000c4 0%, #0000005c 70%, #0000001f 95%), url(../images/beach-image.jpg);
    height: 100vh;
    width: 100%;
    background-size: cover;
    justify-content: center;
    position: relative;
+   background-color: #000;
+   color: white;
+   backdrop-filter: blur(3px);
+
  }
 
  .thankyou_content h1 {
@@ -335,9 +340,8 @@
  }
 
  .thankyou_content h2 {
-
-
    margin-bottom: 2%;
+   color: white;
  }
 
  .thankyou_content p {
@@ -364,14 +368,23 @@
    }
  }
 
+
+
+
+
  /*For smaller screens*/
 
- @media screen and (max-width:800px) {
+ @media screen and (max-width:1070px) {
    .container {
      display: flex;
      flex-direction: column;
      justify-content: center;
      text-align: center;
+   }
+
+   .contact_form {
+     display: flex;
+     flex-direction: column;
    }
 
    .right {
