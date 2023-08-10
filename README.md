@@ -2,7 +2,7 @@
 
 The Sea Essence website is a responsive and visually appealing travel website that aims to inspire and allow holidaymakers to seek a getaway in the Indian Ocean. It allows visitors browsing the website to easily contact the company's travel experts to plan their chosen dream destination.
 
-![Sea Essence website on a range of different devices]()
+![Sea Essence website on a range of different devices](documentation/responsive_image.png)
 
 [View Sea Essence on Github Pages] (https://joanas2.github.io/Sea-Essence/)
 
@@ -25,7 +25,7 @@ The Sea Essence website is a responsive and visually appealing travel website th
 * As a Returning Visitor, I want to find a way to easily contact travel experts to plan my chosen destination, so that I can also ask any questions and send requests.
 
 ### Frequent Visitor Goals:
-* As a Frequent User, I want to stay informed about latest travel inspirations and receive reliable and up-to-date information to build trust with the travel website.
+* As a Frequent User, I want to stay informed about the latest travel inspirations and receive reliable and up-to-date information to build trust with the travel website.
 
 - - -
 
