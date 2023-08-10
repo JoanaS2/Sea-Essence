@@ -32,6 +32,20 @@ The Sea Essence website is a responsive and visually appealing travel website th
 ## Design
 
 ### Color Scheme
+![Sea Essence Website color palette](documentation/color_palette.png)
+The color palette used is thought to stimulate and encourage relaxation.
+
+• Different shades of blue are used to create a sense of harmony and tranquility, providing emphasis on nav links using the hover effect, illustrating the colors of the ocean.
+
+* Sunglow yellow was used as a relatively brighter color to captivate attention.
+
+The color palette was created using the [Coolors] (https://coolors.co/) website.
+
+---
+
+
+
+
 
 
 
