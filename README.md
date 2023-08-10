@@ -198,7 +198,8 @@ To fork this repository:
 
 W3C validator was also used to validate the CSS in the style.css file
 
-![style.css CSS]()
+![style.css CSS](documentation/css_validator.png)
+I acknowledged that the import URL for the Google font isn't working towards the end of my project submission. For future reference,  I know what I will need to do and identify that I should leave extra time during the last checks for validation errors due to working with styling and responsiveness.
 
 ---
 ### Lighthouse
