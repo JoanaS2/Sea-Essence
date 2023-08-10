@@ -4,7 +4,7 @@ The Sea Essence website is a responsive and visually appealing travel website th
 
 ![Sea Essence website on a range of different devices](documentation/responsive_image.png)
 
-[View Sea Essence on Github Pages] (https://joanas2.github.io/Sea-Essence/)
+[View Sea Essence on GitHub Pages](https://joanas2.github.io/Sea-Essence/)
 
 - - -
 ## User Experience (UX)
