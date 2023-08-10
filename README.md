@@ -86,15 +86,44 @@ The website consists of three sections on a page, which are accessible from the 
 
 ### Contact Section
 
-* Allows users to make inquiries or any questions they may have.
+* Allows users to make inquiries or any questions they may have regarding holiday destinations.
+* A sunset background image is used fixed which blends in very well with the website.
 * The form contains fields for the user's name, address and text area field and button to submit the form.
 * A telephone number field is also included which is not a required input so is the choice of the user whether they would like to be contacted by telephone. They will be shown if a certain area is missing information. 
  
 - - -
+### Thank You Page
 
+* A message is shown to the user thanking them for submitting the form and making them aware that someone will be in touch very soon.
+* The Page has a background image used with a linear gradient to ensure the user can visibly see the text content.
 - - -
 ### Footer
 * The footer contains social media links that open in a new tab. 
+
+
+## Technologies used
+
+## Credits
+
+#### Media 
+
+- All the images for the website were taken from [Pexels](https://www.pexels.com/).
+
+- [Hero image](https://www.pexels.com/photo/aerial-view-of-a-beautiful-island-resort-3601425/)
+
++ Destinations:
+- [1st image](https://www.pexels.com/photo/brown-and-white-wooden-houses-on-body-of-water-during-sunset-3601426/)
+- [2nd image](https://www.pexels.com/photo/blue-sky-above-st-pierre-island-in-seychelles-5048704/)
+
+- [Form section image](https://www.pexels.com/photo/sea-during-golden-hour-3155647/)
+
+- [Thank you page background](https://www.pexels.com/photo/seaside-994605/)
+
+
+
+ 
+
+
 
 
 
