@@ -201,9 +201,16 @@ W3C validator was also used to validate the CSS in the style.css file
 
 ---
 ### Lighthouse
+I used Lighthouse in the Chrome Developer Tools which tests the performance, accessibility, best practices and SEO of the website.
+
 ![Lighthouse Report](documentation/lighthouse_report.png)
 
-I used Lighthouse in the Chrome Developer Tools which tests the performance, accessibility, best practices and SEO of the website.
+
+## Solved Bugs 
+- The footer on both pages was displayed in the middle of the screen causing the background image to shrink. It was found that the reason for this was because I was using too much padding.
+- Textarea was overflowing out of the div section. The display set to none solved the issue.
+- The navbar was losing its alignment when on smaller devices. My mentor suggested changing the margin and I also removed the height-align.
+
 
 ## Future Improvements
 * Optimize page load times and implement efficient and more navigation to enhance user satisfaction.
