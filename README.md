@@ -50,8 +50,9 @@ Google Fonts was used for the fonts chosen
 
 ### Wireframes
 
-Wireframes were created for mobile, tablet and desktop.
-This was done using Balsamiq.
+Wireframes were created using Balsamiq for mobile, tablet and desktop.
+![Home Wireframe](documentation/balsamiq_home.png)
+
 
 - - -
 ## Features
