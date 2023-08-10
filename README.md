@@ -42,8 +42,70 @@ The color palette used is thought to stimulate and encourage relaxation.
 
 The color palette was created using the [Coolors] (https://coolors.co/) website.
 
----
+
 ### Typography
+
+Google Fonts was used for the fonts chosen
+* Noto Serif Google font is used for the headings, used in bold to attract viewers.
+* Lato Google Fonts was used to increase the readability of the website's content.
+
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop.
+This was done using Balsamiq.
+
+- - -
+## Features
+The website consists of three sections on a page, which are accessible from the navigation menu which includes an about, destinations and a contact section. When the user submits a form in the contact section this redirects them to a thank you page.
+
+
+### Navbar
+* A responsive navigation bar is positioned fixed at the top of the page which allows the users to easily navigate.
+* Contains the logo as a h1, as the home section with a hero image and easy-to read-text.
+* Contains navigation links aligned to the center:
+* ABOUT - leads to the content explaining what the Sea Essence website is in addition to content about the Indian Ocean and the best time to travel according to the weather.
+* DESTINATIONS - this leads to the section where users can discover and find inspiration on different destinations in the Indian Ocean.
+* CONTACT - leads to the enquiry form which users can fill out if they have any questions or requests to ensure travel experts can plan their desired holiday.
+
+ The links all have an animated hover effect making it easy and clear for the website user to understand and a cursor pointer is shown when the mouse is hovered for a clickable section.
+
+### Hero Section
+
+* The Hero section contains a bright background image that covers the page when the home page is loaded on the browser.
+* Contains a  hero text which is centered and positioned absolute. Meant to entice users to continue browsing. 
+
+- - -
+
+### About Section
+
+*  This section gives users an overall insight into what the Sea Essence website is aimed at which is to inspire and plan desired holiday destinations to the Indian Ocean as per request.
+
+* Also consists of a table providing the best temperatures during 4 different months of the year that is most recommended to visit.
+
+- - - 
+
+### Contact Section
+
+* Allows users to make inquiries or any questions they may have.
+* The form contains fields for the user's name, address and text area field and button to submit the form.
+* A telephone number field is also included which is not a required input so is the choice of the user whether they would like to be contacted by telephone. They will be shown if a certain area is missing information. 
+ 
+- - -
+
+- - -
+### Footer
+* The footer contains social media links that open in a new tab. 
+
+
+
+
+  
+
+
+
+
+
+
 
 
 
