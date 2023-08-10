@@ -103,8 +103,22 @@ The website consists of three sections on a page, which are accessible from the 
 
 ## Technologies used
 
-HTML and CSS were used to create this website.
+#### Languages used 
+ - HTML was used as the foundation of this website.
+ - CSS was used to create and add styling and layout to this website.
 
+
+ ### Frameworks and programs used
+ - Google Dev Tools was used throughout to test features, styling, responsiveness of the website and troubleshooting.
+ - VSCode was used to write and edit code.
+ - CSS Flexbox was used to align flex items along the main axis.
+ - Balsamiq was used to make wireframes.
+ - Git was used for version control of the website created.
+ - Github was used to store and save files and host the source code.
+ - Google fonts to import fonts.
+ - Font Awesome was used as the icon library for the social media icon links.
+ - [Am I Responsive?](http://ami.responsivedesign.is/)
+  was used to show the image of the website on different devices.
 ## Credits
 
 #### Media 
@@ -125,6 +139,7 @@ HTML and CSS were used to create this website.
 
 - [Tiny PNG](https://tinypng.com) was used to compress images.
 
+ 
  
 
 
