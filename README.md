@@ -103,6 +103,8 @@ The website consists of three sections on a page, which are accessible from the 
 
 ## Technologies used
 
+HTML and CSS were used to create this website.
+
 ## Credits
 
 #### Media 
@@ -119,7 +121,9 @@ The website consists of three sections on a page, which are accessible from the 
 
 - [Thank you page background](https://www.pexels.com/photo/seaside-994605/)
 
+#### Tools
 
+- [Tiny PNG](https://tinypng.com) was used to compress images.
 
  
 
