@@ -140,6 +140,8 @@ The website consists of three sections on a page, which are accessible from the 
 - [Tiny PNG](https://tinypng.com) was used to compress images.
 
  
+ ## Validator Testing
+
  
 
 
