@@ -171,6 +171,10 @@ W3C validator was also used to validate the CSS in the style.css file
 
 ![style.css CSS]()
 
+### Lighthouse
+
+
+
 
 
 
