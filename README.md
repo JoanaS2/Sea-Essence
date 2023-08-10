@@ -58,6 +58,8 @@ This was done using Balsamiq.
 ## Features
 The website consists of three sections on a page, which are accessible from the navigation menu which includes an about, destinations and a contact section. When the user submits a form in the contact section this redirects them to a thank you page.
 
+![Home page](documentation/home_page.png)
+
 
 ### Navbar
 * A responsive navigation bar is positioned fixed at the top of the page which allows the users to easily navigate.
@@ -67,12 +69,16 @@ The website consists of three sections on a page, which are accessible from the 
 * DESTINATIONS - this leads to the section where users can discover and find inspiration on different destinations in the Indian Ocean.
 * CONTACT - leads to the inquiry form which users can fill out if they have any questions or requests to ensure travel experts can plan their desired holiday.
 
- The links all have an animated hover effect making it easy and clear for the website user to understand and a cursor pointer is shown when the mouse is hovered for a clickable section.
+ - The links all have an animated hover effect making it easy and clear for the website user to understand and a cursor pointer is shown when the mouse is hovered for a clickable section.
+
+ ![Navigation](documentation/nav_bar.png)
 
 ### Hero Section
 
 * The Hero section contains a bright background image that covers the page when the home page is loaded on the browser.
 * Contains a  hero text which is centered and positioned to absolute. Meant to entice users to continue browsing. 
+
+![Hero Image and Text](documentation/hero.png)
 
 - - -
 
@@ -82,7 +88,14 @@ The website consists of three sections on a page, which are accessible from the 
 
 * Also consists of a table providing the best temperatures during 4 different months of the year that is most recommended to visit.
 
+![About Us](documentation/about.png)
+
 - - - 
+
+### Destinations Section
+
+![1st Destination](documentation/destination_1.png)
+![2nd Destination](documentation/destination_2.png)
 
 ### Contact Section
 
@@ -91,14 +104,20 @@ The website consists of three sections on a page, which are accessible from the 
 * The form contains fields for the user's name, address and text area field and button to submit the form.
 * A telephone number field is also included which is not a required input so is the choice of the user whether they would like to be contacted by telephone. They will be shown if a certain area is missing information. 
  
+ ![Contact](documentation/contact.png)
+
 - - -
 ### Thank You Page
 
-* A message is shown to the user thanking them for submitting the form and making them aware that someone will be in touch very soon.
+* A message is shown as a response to the user thanking them for submitting the form and making them aware that someone will be in touch very soon.
 * The Page has a background image used with a linear gradient to ensure the user can visibly see the text content.
+
+![Response page](documentation/thankyou_page.png)
+
 - - -
 ### Footer
 * The footer contains social media links that open in a new tab. 
+![Footer](documentation/footer.png)
 
 
 ## Technologies used
@@ -141,8 +160,21 @@ The website consists of three sections on a page, which are accessible from the 
 
  
  ## Validator Testing
+ ### W3C Validator 
 
- 
+ I have used the W3C validator to validate the HTML on both the Index page HTML and Thank You page HTML.
+
+![Index Page HTML](documentation/w3cindex.png)
+![Thank You Page HTML](documentation/w3cthankyou.png)
+
+W3C validator was also used to validate the CSS in the style.css file
+
+![style.css CSS]()
+
+
+
+
+
 
 
 
