@@ -204,6 +204,7 @@ W3C validator was also used to validate the CSS in the style.css file
 ---
 
 ### Lighthouse
+![Lighthouse Report](documentation/lighthouse_report.png)
 
 I used Lighthouse in the Chrome Developer Tools which tests the performance, accessibility, best practices and SEO of the website.
 
