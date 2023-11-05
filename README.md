@@ -18,7 +18,7 @@ It allows visitors browsing the website to easily contact the company's travel e
 
 ## Client Goals
 ### First-Time Visitor Goals:
-* As a First Time Visitor, I want the website's content to be engaging and to be inspiring as well as informed about tropical holiday destinations in the Indian Ocean.
+* As a First Time Visitor, I want the website's content to be engaging and inspiring as well as informed about tropical holiday destinations in the Indian Ocean.
 * As a First Time Visitor, I want to be able to easily navigate the different sections of the page, allowing users to find information effortlessly.
 
 ### Returning Visitor Goals:
@@ -62,7 +62,7 @@ The website consists of three sections on a page, which are accessible from the 
 
 ### Navbar
 * A responsive navigation bar is positioned fixed at the top of the page which allows the users to easily navigate.
-* Contains the logo as a h1, as the home section with a hero image and easy-to read-text.
+* Contains the logo as a h1, and the home section with a hero image and easy-to-read text.
 * Contains navigation links aligned to the center:
 * ABOUT - leads to the content explaining what the Sea Essence website is in addition to content about the Indian Ocean and the best time to travel according to the weather.
 * DESTINATIONS - this leads to the section where users can discover and find inspiration on different destinations in the Indian Ocean.
@@ -75,7 +75,7 @@ The website consists of three sections on a page, which are accessible from the 
 ### Hero Section
 
 * The Hero section contains a bright background image that covers the page when the home page is loaded on the browser.
-* Contains a  hero text which is centered and positioned to absolute. Meant to entice users to continue browsing. 
+* Contains a  hero text that is centered and positioned to absolute. Meant to entice users to continue browsing. 
 
 ![Hero Image and Text](documentation/hero.png)
 
@@ -85,7 +85,7 @@ The website consists of three sections on a page, which are accessible from the 
 
 *  This section gives users an overall insight into what the Sea Essence website is aimed at which is to inspire and plan desired holiday destinations to the Indian Ocean as per request.
 
-* Also consists of a table providing the best temperatures during 4 different months of the year that is most recommended to visit.
+* Also consists of a table providing the best temperatures during 4 different months of the year that are most recommended to visit.
 
 ![About Us](documentation/about.png)
 
@@ -100,7 +100,7 @@ The website consists of three sections on a page, which are accessible from the 
 
 * Allows users to make inquiries or any questions they may have regarding holiday destinations.
 * A sunset background image is used fixed which blends in very well with the website.
-* The form contains fields for the user's name, address and text area field and button to submit the form.
+* The form contains fields for the user's name, address, text area field and button to submit the form.
 * A telephone number field is also included which is not a required input so is the choice of the user whether they would like to be contacted by telephone. They will be shown if a certain area is missing information. 
  
  ![Contact](documentation/contact.png)
@@ -162,11 +162,11 @@ The website consists of three sections on a page, which are accessible from the 
 
 ## Deployment
 
-The site was deployed using GitHub Pages. This was done as followed:
+The site was deployed using GitHub Pages. This was done as follows:
 
 - Log in to Git Hub
 - Find the repository for the project and navigate to the settings tab
-- Click on the pages link, on the left side of the navigation bar
+- Click on the page's link, on the left side of the navigation bar
 - Once in the source section, select the main branch from the drop-down selection and select root from the drop-down folder menu.
 -Lastly, click save and the live GitHub pages are now deployed.
 
@@ -191,7 +191,7 @@ To fork this repository:
  ## Validator Testing
  ### W3C Validator 
 
- I have used the W3C validator to validate the HTML on both the Index page HTML and Thank You page HTML.
+ I have used the W3C validator to validate the HTML on both the Index page HTML and the Thank You page HTML.
 
 ![Index Page HTML](documentation/w3cindex.png)
 ![Thank You Page HTML](documentation/w3cthankyou.png)
